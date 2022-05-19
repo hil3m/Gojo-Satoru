@@ -20,23 +20,23 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['905443787048']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.premium = ['905443787048']
+global.ownernomer = '905443787048'
 global.ownername = '🐦HIL3M'
 global.botname = 'HIL3M Bot'
 global.footer = '©HIL3M Media'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.ig = 'https://github.com/hil3m'
+global.region = 'Turkey,Sinop'
+global.sc = 'https://github.com/HIL3M'
+global.myweb = 'https://youtube.com/'
+global.packname = 'HIL3M'
+global.author = '🐦HIL3M Bot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    success: 'Tamam ✓',
+    admin: 'Bu özellik sadece admin içindir!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
